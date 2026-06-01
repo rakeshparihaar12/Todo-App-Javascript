@@ -23,7 +23,7 @@ body{
     align-items: center;
     max-width: 500px;
     width: 100%;
-    padding: 0 15px;
+    
 
 }
 .stats-container{
@@ -113,8 +113,6 @@ button{
     display:flex;
     align-items:center;
     gap:10px;
-    flex:1;
-    overflow-wrap:anywhere;
 }
 
 .checkbox{
