@@ -22,8 +22,6 @@ body{
     margin: 120px auto 0 auto;
     align-items: center;
     max-width: 500px;
-    width: 100%;
-    
 
 }
 .stats-container{
@@ -96,7 +94,7 @@ button{
     outline: none;
 }
 .taskItem{
-    width:100%;
+    width:500px;
     background:#151b58;
     padding:15px;
     border-radius:12px;
