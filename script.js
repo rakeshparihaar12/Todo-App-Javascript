@@ -17,7 +17,6 @@ const savetasks = () => {
 };
 
 const addTask = () => {
-  console.log("Add Task Called");
   const taskinput = document.querySelector("#input-task");
   const text = taskinput.value.trim();
   if (text) {
@@ -53,7 +52,7 @@ const updateStates = () => {
   const totalTask = tasks.length;
   const progress = totalTask === 0 ? 0 : (completeTasks / totalTask) * 100;
   const progressBar = document.querySelector("#progress");
-  progressBar.style.width = `&{progress}%`;
+  progressBar.style.width = `${progress}%`;
   document.getElementById("number").innerText =
     `${completeTasks}/ ${totalTask}`;
   if (tasks.length && completeTasks == totalTask) {
