@@ -93,10 +93,19 @@ button{
     font-weight: bold;
     outline: none;
 }
+.tasklist{
+    width: 100%;
+    list-style: none;
+    padding: 0;
+}
+
+.tasklist li{
+    width: 100%;
+}
 .taskItem{
-    width:500px;
+    width:100%;
     background:#151b58;
-    padding:15px;
+    
     border-radius:12px;
     font-size: 20px;
 
