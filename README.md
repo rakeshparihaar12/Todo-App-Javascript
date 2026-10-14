@@ -3,7 +3,7 @@
 A modern and responsive Todo Application built using HTML, CSS, and JavaScript.
 
 ## Live Demo
-https://rakesh-todo-app.netlify.app/
+https://todo-app-delta-two-80.vercel.app/
 ## Features
 
 * Add Tasks
