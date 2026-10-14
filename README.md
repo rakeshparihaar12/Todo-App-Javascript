@@ -28,4 +28,4 @@ https://rakesh-todo-app.netlify.app/
 
 
 
-Rakesh Tailor
+Rakesh Kumar Parihaar
